@@ -53,3 +53,4 @@ class Connector(metaclass=ABCMeta):
         the method should set the status for a job.
         """
         pass
+        
